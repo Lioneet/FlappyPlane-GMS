@@ -1,0 +1,5 @@
+/// @description Reiniciando o jogo
+// You can write your code in this editor
+
+
+game_restart();

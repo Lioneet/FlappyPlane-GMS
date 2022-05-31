@@ -1,0 +1,54 @@
+1 - Player
+	1.1 - Importando as sprites do avião - Feito
+	1.2 - Criar o objeto do avião, dar a sprite do avião para ele e coloca-lo na room. - Feito
+	1.3 - Caindo ao iniciar o jogo. - Feito
+	1.4 - Subindo ao apertar espaço. - Feito
+	1.5 - Simulando a gravidade continua - Feito
+	1.6 - Limitando a velocidade de queda - Feito
+	1.7 - Reiniciando ao colidir com o obstáculo - Feito
+	1.8 - Crar uam fumaça quandoe le subir - Feito
+	1.9 - Fazendo a fumaça crescer - Feito
+	1.10 - Fazendo a fumaça desaparecer - Feito
+	1.11 - Reiniciar o jogo ao sair da tela - Feito
+	
+2 - Obstáculos
+	2.1 - Criar as sprites das montanhas -Feito
+	2.2 - Criar os objetos das montanhas - Feito
+	2.3 - Ajustar o espaço entre as montanhas - Feito
+	2.4 - Movendo as montanhas para esquerda - Feito
+	2.5 - Aumentando a velocidade dependendo do level - Feito
+	
+3 - Geração procedural dos obstáculos
+	3.1 - Criando um evento que repete. - Feito
+	3.2 - Criando as montanhas - Feito
+	3.3 - Alterando a frequência da criação das montanhas - Feito
+ 	3.4 - Alterando a posição das montanhas - Feito
+	3.5 - Ajustar o intervalo das montanhas ao level do jogo - Feito
+	
+4 - Background
+	4.1 - Criando a sprite do background - Feito
+	4.2 - Colocando movimento no background - Feito
+	4.3 - AJustar a velocidade do background em relação ao lvl - Feito
+	4.4 - Criando o chão - Feito
+	4.5 - Ajustando Velocidade do chão - feito
+
+5 - Sistema de pontos
+	5.1 - Iniciando o sistema de pontos	- Feito
+	5.2 - Ganhando pontos - Feito
+	5.3 - Exibindo os pontos - Feito
+	5.4 - Multiplicar os pontos ganhos pelo level atual - Feito
+	
+6 - Sistema de Level
+	6.1 - Iniciando o sistema - feito
+	6.2 - Ganhando level - feito
+	
+7 - Som
+	7.1 - Importanto os sons - Feito
+	7.2 - Tocando a musica - Feito
+	7.2 - Tocando som do lvlup - Feito
+	
+8 - Menu Inicial do jogo
+	8.1 - Criando a room - feito
+	8.2 - Criando a sprite - feito
+	8.3 - Criando a animação da sprite - feito
+	8.4 - Iniciando o jogo ao apertar espaço -Feito
